@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\LABS\SP\LAB4\LAB4\bin\x64\Release\LAB4.exe.config
+C:\Users\Home\Desktop\LABS\SP\LAB4\LAB4\bin\x64\Release\LAB4.exe
+C:\Users\Home\Desktop\LABS\SP\LAB4\LAB4\bin\x64\Release\LAB4.pdb
+C:\Users\Home\Desktop\LABS\SP\LAB4\LAB4\bin\x64\Release\MetroFramework.Design.dll
+C:\Users\Home\Desktop\LABS\SP\LAB4\LAB4\bin\x64\Release\MetroFramework.dll
+C:\Users\Home\Desktop\LABS\SP\LAB4\LAB4\bin\x64\Release\MetroFramework.Fonts.dll
+C:\Users\Home\Desktop\LABS\SP\LAB4\LAB4\obj\x64\Release\LAB4.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\LABS\SP\LAB4\LAB4\obj\x64\Release\LAB4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Home\Desktop\LABS\SP\LAB4\LAB4\obj\x64\Release\LAB4.Form1.resources
+C:\Users\Home\Desktop\LABS\SP\LAB4\LAB4\obj\x64\Release\LAB4.Properties.Resources.resources
+C:\Users\Home\Desktop\LABS\SP\LAB4\LAB4\obj\x64\Release\LAB4.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\LABS\SP\LAB4\LAB4\obj\x64\Release\LAB4.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\LABS\SP\LAB4\LAB4\obj\x64\Release\LAB4.csproj.CopyComplete
+C:\Users\Home\Desktop\LABS\SP\LAB4\LAB4\obj\x64\Release\LAB4.exe
+C:\Users\Home\Desktop\LABS\SP\LAB4\LAB4\obj\x64\Release\LAB4.pdb
